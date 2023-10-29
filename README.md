@@ -7,3 +7,4 @@ You will find said two games that function like "Thumb and Pouch" and "China Man
 
 ![image](https://github.com/LinuxBeaver/PySol_Solitare_HexDeck_thumb_and_pouch-custom_game-/assets/78667207/e2e42b3a-01a3-4424-9dea-ade6df385fee)
 
+Credit goes to all original authors of the original Hex Dexk games and PySol. All I did was change a few lines of code to get this modification.
